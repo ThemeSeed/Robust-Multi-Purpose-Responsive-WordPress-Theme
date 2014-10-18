@@ -13,7 +13,7 @@ Here's a live Demo of the theme.
 
 Here's where you can download it, for <strong>FREE</strong>
 
-<a target="_blank" href="http://www.theme-seed.com/themes/product/robust-multi-purpose-responsive-wordpress-theme/">Live Demo</a>
+<a target="_blank" href="http://www.theme-seed.com/themes/product/robust-multi-purpose-responsive-wordpress-theme/">Get Robust for Free</a>
 
 The theme is GPL, so do whatever you want with it, have fun.
 
