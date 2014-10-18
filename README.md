@@ -13,7 +13,7 @@ Take a browse over the features, you’ll be impressed.
 
 <h2>Download Robust</h2>
 
-<a target="_blank" href="http://www.theme-seed.com/themes/product/robust-multi-purpose-responsive-wordpress-theme/">Get Robust</a>
+<a target="_blank" href="http://www.theme-seed.com/themes/product/robust-multi-purpose-responsive-wordpress-theme/">Download Robust</a>
 
 <h2>License</h2>
 
