@@ -7,7 +7,7 @@ Robust is a modern, clean and responsive MultiPurpose WordPress theme that has a
 
 Take a browse over the features, you’ll be impressed.
 
-Here's a live Demo of the theme.
+<h2>Live Demo</h2>
 
 <a target="_blank" href="http://www.theme-seed.com/themes/robust">Live Demo</a>
 
