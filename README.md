@@ -19,39 +19,39 @@ The theme is GPL, so do whatever you want with it, have fun.
 
 Here's an overview of the features.
 
-Easy to Use
-Extensive Documentation with Screenshots
-Fast One on One Support
-Clean HTML5 / CSS3
-Modern & Unique Design
-Retina Ready
-LayerSlider included (A $15 Value)
-Shortcode Generator
-Backend Options Panel
-Easily Change All Colors
-Customizable Header & Footer
-100% Fluid Responsive Design
-Over 300 Fontawesome Icons
-Over 500 Google Fonts
-Demo XML File – Incase you don’t want to start from scratch
-Contact Form 7 Styling
-Multiple Blog Layouts
-Multiple Portfolio Layouts
-Portfolio Category Filter
-Each Portfolio Single Page can have a unique design
-404 Page
-No Result Page
-Search Result Page
-Archives Page
-Portfolio Custom Post Type
-Blog Page Sidebar
-Contact Page Sidebar
-Sticky Navigation
-Boxed Layout
-Wide Layout
-Default Sidebar
-4 Footer Widget Area’s
-Child Theme Ready and included
+- Easy to Use
+- Extensive Documentation with Screenshots
+- Fast One on One Support
+- Clean HTML5 / CSS3
+- Modern & Unique Design
+- Retina Ready
+- LayerSlider included (A $15 Value)
+- Shortcode Generator
+- Backend Options Panel
+- Easily Change All Colors
+- Customizable Header & Footer
+- 100% Fluid Responsive Design
+- Over 300 Fontawesome Icons
+- Over 500 Google Fonts
+- Demo XML File – Incase you don’t want to start from scratch
+- Contact Form 7 Styling
+- Multiple Blog Layouts
+- Multiple Portfolio Layouts
+- Portfolio Category Filter
+- Each Portfolio Single Page can have a unique design
+- 404 Page
+- No Result Page
+- Search Result Page
+- Archives Page
+- Portfolio Custom Post Type
+- Blog Page Sidebar
+- Contact Page Sidebar
+- Sticky Navigation
+- Boxed Layout
+- Wide Layout
+- Default Sidebar
+- 4 Footer Widget Area’s
+- Child Theme Ready and included
 
 Theme Options Panel
 - General Settings
