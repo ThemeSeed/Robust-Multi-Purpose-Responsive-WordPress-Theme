@@ -11,13 +11,15 @@ Take a browse over the features, you’ll be impressed.
 
 <a target="_blank" href="http://www.theme-seed.com/themes/robust">Live Demo</a>
 
-Here's where you can download it, for <strong>FREE</strong>
+<h2>Download Robust For Free</h2>
 
 <a target="_blank" href="http://www.theme-seed.com/themes/product/robust-multi-purpose-responsive-wordpress-theme/">Get Robust for Free</a>
 
+<h2>License</h2>
+
 The theme is GPL, so do whatever you want with it, have fun.
 
-Here's an overview of the features.
+<h2>Features</h2>
 
 - Easy to Use
 - Extensive Documentation with Screenshots
