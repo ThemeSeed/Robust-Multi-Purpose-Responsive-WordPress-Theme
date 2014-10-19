@@ -15,6 +15,10 @@ Take a browse over the features, you’ll be impressed.
 
 <a target="_blank" href="http://www.theme-seed.com/themes/product/robust-multi-purpose-responsive-wordpress-theme/">Download Robust</a>
 
+<h2>Documentation</h2>
+
+<a target="_blank" href="http://www.theme-seed.com/documentation/robust/">Documentation</a>
+
 <h2>License</h2>
 
 The theme is GPL. Do whatever you want with it, have fun.
